@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "supported_formats": [
+      15,
+      32
+    ],
+    "description": "\u00a7eResource pack for KawaMood's Waystones V.3 datapack (Version 3.1.0 or higher). Resource pack by Lordphiphi."
+  }
+}

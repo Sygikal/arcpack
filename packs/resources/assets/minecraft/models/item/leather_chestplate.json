@@ -1,0 +1,165 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_chestplate",
+    "layer1": "minecraft:item/leather_chestplate_overlay"
+  },
+  "overrides": [
+    {
+      "model": "illagerexp:item/platinum_infused_netherite_chestplate",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/1",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/6",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/11",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/16",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/21",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/26",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/31",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/36",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/41",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/46",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/51",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/56",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/61",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "waystones_rp:custom_gui/waystone/button/unprotected"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "waystones_rp:custom_gui/waystone/button/protected"
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "minecraft:item/leather_chestplate_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

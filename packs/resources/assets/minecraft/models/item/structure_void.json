@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/structure_void"
+  },
+  "overrides": [
+    {
+      "model": "illagerexp:item/magic_fire",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/back",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/next_page",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/previous_page",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/flame",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/xp",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydex:sgui/elements/page",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    }
+  ]
+}

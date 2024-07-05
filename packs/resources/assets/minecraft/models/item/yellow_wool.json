@@ -1,0 +1,107 @@
+{
+  "parent": "minecraft:block/yellow_wool",
+  "overrides": [
+    {
+      "model": "polydecorations:block/oak_bench_norest_left",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:block/jungle_bench_right",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:block/mangrove_bench_norest_right",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:block/spruce_table_7",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:block/acacia_table_7",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:block/jungle_table_7",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:block/crimson_table_7",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:block/mangrove_table_7",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/deepslate/body",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/quartz/right_arm",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/packed_mud/right_leg",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/magenta_terracotta/body",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/gray_terracotta/right_arm",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/brown_terracotta/right_leg",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/birch/body",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/crimson/right_arm",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "polyfactory:block/large_gear",
+      "predicate": {
+        "custom_model_data": 18
+      }
+    }
+  ]
+}

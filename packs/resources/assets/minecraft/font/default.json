@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/colbster937.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue821"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/white.png",
+      "ascent": 2000,
+      "height": 4000,
+      "chars": [
+        "\ue000"
+      ]
+    }
+  ]
+}

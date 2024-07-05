@@ -1,0 +1,110 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/goat_horn"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "model": "illagerexp:item/horn_of_sight",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013955
+      },
+      "model": "copper_horn:item/copper_horn"
+    },
+    {
+      "predicate": {
+        "tooting": 1
+      },
+      "model": "item/tooting_goat_horn"
+    },
+    {
+      "predicate": {
+        "tooting": 1,
+        "custom_model_data": 2
+      },
+      "model": "illagerexp:item/horn_of_sight_using"
+    },
+    {
+      "predicate": {
+        "tooting": 1,
+        "custom_model_data": 2013955
+      },
+      "model": "copper_horn:item/tooting_copper_horn"
+    }
+  ]
+}

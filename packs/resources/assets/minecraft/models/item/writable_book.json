@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/writable_book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2013956
+      },
+      "model": "dyed_books:item/light_gray_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013957
+      },
+      "model": "dyed_books:item/gray_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013958
+      },
+      "model": "dyed_books:item/white_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013959
+      },
+      "model": "dyed_books:item/black_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013960
+      },
+      "model": "dyed_books:item/pink_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013961
+      },
+      "model": "dyed_books:item/magenta_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013962
+      },
+      "model": "dyed_books:item/purple_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013963
+      },
+      "model": "dyed_books:item/light_blue_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013964
+      },
+      "model": "dyed_books:item/blue_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013965
+      },
+      "model": "dyed_books:item/cyan_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013966
+      },
+      "model": "dyed_books:item/lime_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013967
+      },
+      "model": "dyed_books:item/green_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013968
+      },
+      "model": "dyed_books:item/yellow_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013969
+      },
+      "model": "dyed_books:item/orange_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013970
+      },
+      "model": "dyed_books:item/brown_writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013971
+      },
+      "model": "dyed_books:item/red_writable_book"
+    }
+  ]
+}

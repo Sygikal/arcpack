@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+  },
+  "overrides": [
+    {
+      "model": "polyfactory:item/coal_dust",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    }
+  ]
+}

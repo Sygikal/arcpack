@@ -1,0 +1,59 @@
+{
+  "parent": "minecraft:block/birch_button_inventory",
+  "overrides": [
+    {
+      "model": "illagerexp:pbentity/provoker",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/invoker",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/basher",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/sorcerer",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/archivist",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/inquisitor",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/marauder",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/alchemist",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "illagerexp:pbentity/firecaller",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    }
+  ]
+}

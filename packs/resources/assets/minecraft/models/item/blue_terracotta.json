@@ -1,0 +1,479 @@
+{
+  "parent": "minecraft:block/blue_terracotta",
+  "overrides": [
+    {
+      "model": "polydecorations:block/acacia_bench_norest_middle",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:block/warped_bench_norest",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:block/oak_table_14",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:block/birch_table_14",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:block/cherry_table_14",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:block/dark_oak_table_14",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:block/warped_table_14",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:block/bamboo_table_14",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/red_sandstone/head",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/tuff/left_arm",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/white_terracotta/left_leg",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/pink_terracotta/head",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/blue_terracotta/left_arm",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/oak/left_leg",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/dark_oak/head",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polyfactory:block/fan_rotating",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3",
+      "predicate": {
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8",
+      "predicate": {
+        "custom_model_data": 19
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14",
+      "predicate": {
+        "custom_model_data": 20
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/1",
+      "predicate": {
+        "custom_model_data": 21
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/1",
+      "predicate": {
+        "custom_model_data": 22
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/1",
+      "predicate": {
+        "custom_model_data": 23
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/2",
+      "predicate": {
+        "custom_model_data": 24
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/2",
+      "predicate": {
+        "custom_model_data": 25
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/2",
+      "predicate": {
+        "custom_model_data": 26
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/3",
+      "predicate": {
+        "custom_model_data": 27
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/3",
+      "predicate": {
+        "custom_model_data": 28
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/3",
+      "predicate": {
+        "custom_model_data": 29
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/4",
+      "predicate": {
+        "custom_model_data": 30
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/4",
+      "predicate": {
+        "custom_model_data": 31
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/4",
+      "predicate": {
+        "custom_model_data": 32
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/5",
+      "predicate": {
+        "custom_model_data": 33
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/5",
+      "predicate": {
+        "custom_model_data": 34
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/5",
+      "predicate": {
+        "custom_model_data": 35
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/6",
+      "predicate": {
+        "custom_model_data": 36
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/6",
+      "predicate": {
+        "custom_model_data": 37
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/6",
+      "predicate": {
+        "custom_model_data": 38
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/7",
+      "predicate": {
+        "custom_model_data": 39
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/7",
+      "predicate": {
+        "custom_model_data": 40
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/7",
+      "predicate": {
+        "custom_model_data": 41
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/8",
+      "predicate": {
+        "custom_model_data": 42
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/8",
+      "predicate": {
+        "custom_model_data": 43
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/8",
+      "predicate": {
+        "custom_model_data": 44
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/9",
+      "predicate": {
+        "custom_model_data": 45
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/9",
+      "predicate": {
+        "custom_model_data": 46
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/9",
+      "predicate": {
+        "custom_model_data": 47
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/10",
+      "predicate": {
+        "custom_model_data": 48
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/10",
+      "predicate": {
+        "custom_model_data": 49
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/10",
+      "predicate": {
+        "custom_model_data": 50
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/11",
+      "predicate": {
+        "custom_model_data": 51
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/11",
+      "predicate": {
+        "custom_model_data": 52
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/11",
+      "predicate": {
+        "custom_model_data": 53
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/12",
+      "predicate": {
+        "custom_model_data": 54
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/12",
+      "predicate": {
+        "custom_model_data": 55
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/12",
+      "predicate": {
+        "custom_model_data": 56
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/13",
+      "predicate": {
+        "custom_model_data": 57
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/13",
+      "predicate": {
+        "custom_model_data": 58
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/13",
+      "predicate": {
+        "custom_model_data": 59
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/14",
+      "predicate": {
+        "custom_model_data": 60
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/14",
+      "predicate": {
+        "custom_model_data": 61
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/14",
+      "predicate": {
+        "custom_model_data": 62
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/15",
+      "predicate": {
+        "custom_model_data": 63
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/15",
+      "predicate": {
+        "custom_model_data": 64
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/15",
+      "predicate": {
+        "custom_model_data": 65
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/16",
+      "predicate": {
+        "custom_model_data": 66
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/16",
+      "predicate": {
+        "custom_model_data": 67
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/16",
+      "predicate": {
+        "custom_model_data": 68
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/17",
+      "predicate": {
+        "custom_model_data": 69
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/17",
+      "predicate": {
+        "custom_model_data": 70
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/17",
+      "predicate": {
+        "custom_model_data": 71
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/18",
+      "predicate": {
+        "custom_model_data": 72
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/18",
+      "predicate": {
+        "custom_model_data": 73
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/18",
+      "predicate": {
+        "custom_model_data": 74
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/19",
+      "predicate": {
+        "custom_model_data": 75
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/19",
+      "predicate": {
+        "custom_model_data": 76
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/19",
+      "predicate": {
+        "custom_model_data": 77
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_3/20",
+      "predicate": {
+        "custom_model_data": 78
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/sticky_conveyor_down_8/20",
+      "predicate": {
+        "custom_model_data": 79
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/conveyor_up_14/20",
+      "predicate": {
+        "custom_model_data": 80
+      }
+    }
+  ]
+}

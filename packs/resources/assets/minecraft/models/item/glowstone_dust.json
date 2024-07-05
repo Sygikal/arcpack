@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glowstone_dust"
+  },
+  "overrides": [
+    {
+      "model": "illagerexp:item/unusual_dust",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "illagerexp:item/illusionary_dust",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    }
+  ]
+}
