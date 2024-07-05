@@ -1,7 +1,0 @@
-{
-  "parent": "polydecorations:block/base_table_6",
-  "textures": {
-    "planks": "minecraft:block/crimson_planks",
-    "logs": "minecraft:block/crimson_stem"
-  }
-}

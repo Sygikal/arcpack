@@ -1,7 +1,0 @@
-{
-  "parent": "polydecorations:block/base_bench_right",
-  "textures": {
-    "planks": "minecraft:block/cherry_planks",
-    "logs": "minecraft:block/cherry_log"
-  }
-}

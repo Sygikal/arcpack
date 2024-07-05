@@ -1,6 +1,0 @@
-{
-  "parent": "polydecorations:block/statue/stone/left_arm",
-  "textures": {
-    "0": "block/terracotta"
-  }
-}

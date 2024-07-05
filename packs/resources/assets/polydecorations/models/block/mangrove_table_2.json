@@ -1,7 +1,0 @@
-{
-  "parent": "polydecorations:block/base_table_2",
-  "textures": {
-    "planks": "minecraft:block/mangrove_planks",
-    "logs": "minecraft:block/mangrove_log"
-  }
-}
