@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/tooting_goat_horn",
-  "textures": {
-    "layer0": "illagerexp:item/horn_of_sight"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "glideaway:item/hang_glider",
-  "textures": {
-    "material": "glideaway:item/hang_glider_cherry"
-  }
-}
