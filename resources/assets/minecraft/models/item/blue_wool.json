@@ -1,0 +1,101 @@
+{
+  "parent": "minecraft:block/blue_wool",
+  "overrides": [
+    {
+      "model": "polydecorations:block/spruce_bench_norest_left",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:block/dark_oak_bench_right",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:block/bamboo_bench_norest_right",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:block/spruce_table_14",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:block/acacia_table_14",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:block/jungle_table_14",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:block/crimson_table_14",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:block/mangrove_table_14",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/blackstone/left_arm",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/andesite/left_leg",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/tuff_bricks/head",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/light_blue_terracotta/left_arm",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/light_gray_terracotta/left_leg",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/red_terracotta/head",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/acacia/left_arm",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polydecorations:block/statue/warped/left_leg",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    }
+  ]
+}

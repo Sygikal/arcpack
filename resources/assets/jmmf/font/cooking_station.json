@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uf000": -8
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "jmmf:item/gui/cooking_station/base.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\uf001"
+      ]
+    }
+  ]
+}

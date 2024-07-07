@@ -1,0 +1,20 @@
+{
+  "trinkets.tooltip.slots.any": "\u00a79Herhangi\u00a7r  bir trinket slotuna tak\u0131labilir",
+  "trinkets.tooltip.slots.list": "\u015eu trinket slotlar\u0131na tak\u0131labilir:",
+  "trinkets.tooltip.slots.single": "%d trinket slotuna tak\u0131labilir",
+  "trinkets.tooltip.attributes.all": "Tak\u0131ld\u0131\u011f\u0131nda:",
+  "trinkets.tooltip.attributes.single": "%d trinket slotuna tak\u0131l\u0131 oldu\u011funda:",
+  "trinkets.tooltip.attributes.slots": "%d Slotlar\u0131",
+  "trinkets.slot.head.face": "Y\u00fcz",
+  "trinkets.slot.head.hat": "\u015eapka",
+  "trinkets.slot.chest.necklace": "Kolye",
+  "trinkets.slot.chest.back": "S\u0131rt",
+  "trinkets.slot.chest.cape": "Pelerin",
+  "trinkets.slot.legs.belt": "Kemer",
+  "trinkets.slot.feet.aglet": "Ba\u011fc\u0131k",
+  "trinkets.slot.feet.shoes": "Ayakkab\u0131",
+  "trinkets.slot.hand.glove": "Eldiven",
+  "trinkets.slot.offhand.glove": "Eldiven",
+  "trinkets.slot.hand.ring": "Y\u00fcz\u00fck",
+  "trinkets.slot.offhand.ring": "Y\u00fcz\u00fck"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:sgui/button_32",
+  "textures": {
+    "layer0": "polydecorations:sgui/elements/polydex"
+  }
+}

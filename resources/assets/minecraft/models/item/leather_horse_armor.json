@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "model": "polyfactory:block/windmill_sail",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polyfactory:block/windmill_sail_flip",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polyfactory:item/portable_redstone_transmitter",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polyfactory:item/spray_can",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/4",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/9",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/14",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/19",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/24",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/29",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/34",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/39",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/44",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/49",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/54",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/59",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    }
+  ]
+}

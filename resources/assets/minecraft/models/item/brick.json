@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brick"
+  },
+  "overrides": [
+    {
+      "model": "polydecorations:block/oak_shelf_double",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:block/warped_shelf_top",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:item/birch_shelf",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:item/jungle_bench",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:item/warped_table",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:item/cherry_mailbox",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:item/crimson_sign_post",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:item/ghost_light",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:item/packed_mud_statue",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:item/blue_terracotta_statue",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:item/mod_icon",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:item/planter",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:item/steel_gear",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:item/item_reader",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polyfactory:item/tiny_potato_spring",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polyfactory:block/data_memory_powered",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    }
+  ]
+}

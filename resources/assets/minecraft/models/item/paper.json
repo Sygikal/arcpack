@@ -1,0 +1,440 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "model": "dust:block/dust_overlay_0",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "dust:block/dust_overlay_1",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "dust:block/dust_overlay_2",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "dust:entity/dust_bunny_blade",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "dust:entity/dust_bunny_eyes",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "dust:item/dust_bunny_hide",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "glideaway:item/wind_in_a_bottle",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:block/dark_oak_shelf_double",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:item/globe",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:item/cherry_bench",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polydecorations:item/mangrove_table",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polydecorations:item/acacia_mailbox",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polydecorations:item/cherry_sign_post",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polydecorations:item/warped_statue",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polydecorations:item/diorite_statue",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polydecorations:item/light_gray_terracotta_statue",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "polyfactory:block/hologram_projector_active",
+      "predicate": {
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "polyfactory:item/mixer",
+      "predicate": {
+        "custom_model_data": 19
+      }
+    },
+    {
+      "model": "polyfactory:item/steel_ingot",
+      "predicate": {
+        "custom_model_data": 20
+      }
+    },
+    {
+      "model": "polyfactory:item/item_filter",
+      "predicate": {
+        "custom_model_data": 21
+      }
+    },
+    {
+      "model": "polyfactory:item/item_counter",
+      "predicate": {
+        "custom_model_data": 22
+      }
+    },
+    {
+      "model": "polyfactory:item/workbench",
+      "predicate": {
+        "custom_model_data": 23
+      }
+    },
+    {
+      "model": "polyfactory:block/data_cube_connector_input_a",
+      "predicate": {
+        "custom_model_data": 24
+      }
+    },
+    {
+      "model": "custom/block/concrete/yellow_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 25
+      }
+    },
+    {
+      "model": "custom/block/concrete/white_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 26
+      }
+    },
+    {
+      "model": "custom/block/concrete/red_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 27
+      }
+    },
+    {
+      "model": "custom/block/concrete/purple_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 28
+      }
+    },
+    {
+      "model": "custom/block/concrete/pink_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 29
+      }
+    },
+    {
+      "model": "custom/block/concrete/orange_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 30
+      }
+    },
+    {
+      "model": "custom/block/concrete/magenta_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 31
+      }
+    },
+    {
+      "model": "custom/block/concrete/lime_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 32
+      }
+    },
+    {
+      "model": "custom/block/concrete/light_gray_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 33
+      }
+    },
+    {
+      "model": "custom/block/concrete/light_blue_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 34
+      }
+    },
+    {
+      "model": "custom/block/concrete/green_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 35
+      }
+    },
+    {
+      "model": "custom/block/concrete/gray_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 36
+      }
+    },
+    {
+      "model": "custom/block/concrete/cyan_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 37
+      }
+    },
+    {
+      "model": "custom/block/concrete/brown_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 38
+      }
+    },
+    {
+      "model": "custom/block/concrete/blue_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 39
+      }
+    },
+    {
+      "model": "custom/block/concrete/black_concrete_bricks",
+      "predicate": {
+        "custom_model_data": 40
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/warped",
+      "predicate": {
+        "custom_model_data": 41
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/spruce",
+      "predicate": {
+        "custom_model_data": 42
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/oak",
+      "predicate": {
+        "custom_model_data": 43
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/mangrove",
+      "predicate": {
+        "custom_model_data": 44
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/jungle",
+      "predicate": {
+        "custom_model_data": 45
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/dark_oak",
+      "predicate": {
+        "custom_model_data": 46
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/crimson",
+      "predicate": {
+        "custom_model_data": 47
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/cherry",
+      "predicate": {
+        "custom_model_data": 48
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/birch",
+      "predicate": {
+        "custom_model_data": 49
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/bamboo",
+      "predicate": {
+        "custom_model_data": 50
+      }
+    },
+    {
+      "model": "custom/block/wood/vertical_planks/acacia",
+      "predicate": {
+        "custom_model_data": 51
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/warped",
+      "predicate": {
+        "custom_model_data": 52
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/spruce",
+      "predicate": {
+        "custom_model_data": 53
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/oak",
+      "predicate": {
+        "custom_model_data": 54
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/mangrove",
+      "predicate": {
+        "custom_model_data": 55
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/jungle",
+      "predicate": {
+        "custom_model_data": 56
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/dark_oak",
+      "predicate": {
+        "custom_model_data": 57
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/crimson",
+      "predicate": {
+        "custom_model_data": 58
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/cherry",
+      "predicate": {
+        "custom_model_data": 59
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/birch",
+      "predicate": {
+        "custom_model_data": 60
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/bamboo",
+      "predicate": {
+        "custom_model_data": 61
+      }
+    },
+    {
+      "model": "custom/block/wood/chiseled_planks/acacia",
+      "predicate": {
+        "custom_model_data": 62
+      }
+    },
+    {
+      "model": "custom/block/stone/polished_stone",
+      "predicate": {
+        "custom_model_data": 63
+      }
+    },
+    {
+      "model": "custom/block/stone/polished_limestone",
+      "predicate": {
+        "custom_model_data": 64
+      }
+    },
+    {
+      "model": "custom/block/stone/limestone_bricks",
+      "predicate": {
+        "custom_model_data": 65
+      }
+    },
+    {
+      "model": "custom/block/stone/limestone",
+      "predicate": {
+        "custom_model_data": 66
+      }
+    },
+    {
+      "model": "custom/block/stone/large_bricks",
+      "predicate": {
+        "custom_model_data": 67
+      }
+    },
+    {
+      "model": "custom/block/stone/granite_bricks",
+      "predicate": {
+        "custom_model_data": 68
+      }
+    },
+    {
+      "model": "custom/block/dripstone/polished_dripstone",
+      "predicate": {
+        "custom_model_data": 69
+      }
+    },
+    {
+      "model": "custom/block/dripstone/dripstone_bricks",
+      "predicate": {
+        "custom_model_data": 70
+      }
+    },
+    {
+      "model": "custom/block/stone/diorite_bricks",
+      "predicate": {
+        "custom_model_data": 71
+      }
+    },
+    {
+      "model": "custom/block/stone/andesite_bricks",
+      "predicate": {
+        "custom_model_data": 72
+      }
+    },
+    {
+      "model": "custom/block/stone/pebbles_item",
+      "predicate": {
+        "custom_model_data": 73
+      }
+    }
+  ]
+}

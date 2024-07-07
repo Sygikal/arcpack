@@ -1,0 +1,291 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_helmet",
+    "layer1": "minecraft:item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "model": "minecraft:item/leather_helmet_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "minecraft:item/leather_helmet_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    },
+    {
+      "model": "illagerexp:item/platinum_infused_netherite_helmet",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/0",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/5",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/10",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/15",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/20",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/25",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/30",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/35",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/40",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/45",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/50",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/55",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:block/gen/cable_colored/60",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polyfactory:block/redstone_output_overlay",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polyfactory:block/redstone_input_overlay",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "miners_helmet:item/miners_helmet",
+      "predicate": {
+        "custom_model_data": 18
+      }
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "waystones_rp:custom_gui/waystone/button/visibility_public"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "waystones_rp:custom_gui/waystone/button/visibility_private"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "waystones_rp:custom_gui/waystone/button/visibility_discoverable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "jmmf:item/gui/water_tank_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "jmmf:item/gui/water_tank_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "jmmf:item/gui/water_tank_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "jmmf:item/gui/water_tank_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "jmmf:item/gui/water_tank_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "jmmf:item/gui/water_tank_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "jmmf:item/gui/water_tank_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "jmmf:item/gui/water_tank_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "jmmf:item/gui/water_tank_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "jmmf:item/gui/water_tank_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "jmmf:item/gui/water_tank_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "jmmf:item/gui/water_tank_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "jmmf:item/gui/water_tank_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "jmmf:item/gui/water_tank_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "jmmf:item/gui/water_tank_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "jmmf:item/gui/water_tank_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "jmmf:item/gui/water_tank_16"
+    }
+  ]
+}

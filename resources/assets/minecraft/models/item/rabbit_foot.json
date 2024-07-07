@@ -1,0 +1,98 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/rabbit_foot"
+  },
+  "overrides": [
+    {
+      "model": "polydecorations:block/cherry_shelf_top",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:item/mod_icon",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:item/spruce_shelf",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:item/birch_table",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:item/jungle_tool_rack",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:item/warped_mailbox",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:item/acacia_statue",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:item/prismarine_statue",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:item/light_blue_terracotta_statue",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:block/lantern_support_fence",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:item/hand_crank",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:item/metal_grid",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:item/creative_container",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:item/wireless_redstone_transmitter",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polyfactory:block/axle_short",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    }
+  ]
+}

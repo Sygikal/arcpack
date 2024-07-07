@@ -1,0 +1,20 @@
+{
+  "trinkets.tooltip.slots.any": "\u00a79\u3044\u305a\u308c\u306e\u4f4d\u7f6e\u00a7r\u306e\u88c5\u8eab\u5177\u3068\u3057\u3066\u3082\u53d6\u308a\u4ed8\u3051\u3089\u308c\u308b",
+  "trinkets.tooltip.slots.list": "\u88c5\u8eab\u5177\u3068\u3057\u3066\u53d6\u308a\u4ed8\u3051\u3089\u308c\u308b\u4f4d\u7f6e:",
+  "trinkets.tooltip.slots.single": "%d\u306e\u88c5\u8eab\u5177\u3068\u3057\u3066\u53d6\u308a\u4ed8\u3051\u3089\u308c\u308b",
+  "trinkets.tooltip.attributes.all": "\u53d6\u308a\u4ed8\u3051\u305f\u6642:",
+  "trinkets.tooltip.attributes.single": "%d\u306b\u53d6\u308a\u4ed8\u3051\u305f\u6642:",
+  "trinkets.tooltip.attributes.slots": "%d",
+  "trinkets.slot.head.face": "\u9854",
+  "trinkets.slot.head.hat": "\u5e3d\u5b50",
+  "trinkets.slot.chest.necklace": "\u9996\u98fe\u308a",
+  "trinkets.slot.chest.back": "\u80cc\u4e2d",
+  "trinkets.slot.chest.cape": "\u80a9",
+  "trinkets.slot.legs.belt": "\u8170",
+  "trinkets.slot.feet.aglet": "\u9774\u7d10",
+  "trinkets.slot.feet.shoes": "\u9774",
+  "trinkets.slot.hand.glove": "\u624b\u888b",
+  "trinkets.slot.offhand.glove": "\u624b\u888b",
+  "trinkets.slot.hand.ring": "\u6307\u8f2a",
+  "trinkets.slot.offhand.ring": "\u6307\u8f2a"
+}

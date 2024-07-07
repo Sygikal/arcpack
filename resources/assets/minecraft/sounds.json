@@ -1,0 +1,12 @@
+{
+	"noise.explosion": {
+		"sounds": [
+			"noise/explosion"
+		]
+	},
+	"noise.ringing": {
+		"sounds": [
+			"noise/ringing"
+		]
+	}
+}

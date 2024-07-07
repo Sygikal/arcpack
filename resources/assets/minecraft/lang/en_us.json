@@ -1,0 +1,10 @@
+{
+  "death.attack.stonecutter": "%1$s was sliced open",
+  "death.attack.stonecutter.player": "%1$s was sliced open whilst trying to escape %2$s",
+  "death.attack.rose_bush": "%1$s stopped to smell the roses",
+  "death.attack.rose_bush.player": "%1$s stopped to smell the roses whilst trying to escape %2$s",
+  "death.attack.coral": "%1$s kicked the coral",
+  "death.attack.coral.player": "%1$s tripped on coral whilst trying to escape %2$s",
+  "death.attack.amethyst": "%1$s was lacerated by amethyst",
+  "death.attack.amethyst.player": "%1$s was lacerated by amethyst whilst trying to escape %2$s"
+}

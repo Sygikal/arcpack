@@ -1,0 +1,6 @@
+{
+  "parent": "polyfactory:sgui/button_32",
+  "textures": {
+    "layer0": "polyfactory:sgui/elements/button/plus"
+  }
+}

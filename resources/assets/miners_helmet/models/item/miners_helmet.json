@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer1": "miners_helmet:item/miners_helmet",
+    "layer0": "miners_helmet:item/miners_helmet"
+  }
+}

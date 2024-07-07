@@ -1,0 +1,20 @@
+{
+  "trinkets.tooltip.slots.any": "Equip\u00e1vel em \u00a79algum\u00a7r slot de bugigangas",
+  "trinkets.tooltip.slots.list": "Equip\u00e1vel nos slots de bugigangas:",
+  "trinkets.tooltip.slots.single": "Equip\u00e1vel no slot de bugigangas %d",
+  "trinkets.tooltip.attributes.all": "Quando equipado:",
+  "trinkets.tooltip.attributes.single": "Quando equipado no slot de bugigangas %d:",
+  "trinkets.tooltip.attributes.slots": "%d Slots",
+  "trinkets.slot.head.face": "Cara",
+  "trinkets.slot.head.hat": "Chap\u00e9u",
+  "trinkets.slot.chest.necklace": "Colar",
+  "trinkets.slot.chest.back": "Costa",
+  "trinkets.slot.chest.cape": "Capa",
+  "trinkets.slot.legs.belt": "Cinto",
+  "trinkets.slot.feet.aglet": "Aglet",
+  "trinkets.slot.feet.shoes": "Sapato",
+  "trinkets.slot.hand.glove": "Luva",
+  "trinkets.slot.offhand.glove": "Luva",
+  "trinkets.slot.hand.ring": "Anel",
+  "trinkets.slot.offhand.ring": "Anel"
+}

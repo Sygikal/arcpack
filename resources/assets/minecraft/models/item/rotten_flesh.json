@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/rotten_flesh"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "jmmf:item/soup/rotten_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "edible_expansion:item/cured_flesh"
+    }
+  ]
+}

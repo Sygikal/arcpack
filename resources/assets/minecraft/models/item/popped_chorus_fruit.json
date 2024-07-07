@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+  "overrides": [
+    {
+      "model": "polydecorations:block/oak_shelf_top",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "polydecorations:block/crimson_shelf_double",
+      "predicate": {
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "polydecorations:item/bamboo_shelf",
+      "predicate": {
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "polydecorations:item/dark_oak_bench",
+      "predicate": {
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "polydecorations:item/spruce_table",
+      "predicate": {
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "polydecorations:item/birch_mailbox",
+      "predicate": {
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "polydecorations:item/dark_oak_sign_post",
+      "predicate": {
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "polydecorations:item/bamboo_statue",
+      "predicate": {
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "polydecorations:item/tuff_statue",
+      "predicate": {
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "polydecorations:item/purple_terracotta_statue",
+      "predicate": {
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "polyfactory:block/steel_button_pressed",
+      "predicate": {
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "polyfactory:item/placer",
+      "predicate": {
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "polyfactory:item/copper_plate",
+      "predicate": {
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "polyfactory:item/redstone_output",
+      "predicate": {
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "polyfactory:item/inverted_redstone_lamp",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "polyfactory:block/data_cube_connector_output",
+      "predicate": {
+        "custom_model_data": 17
+      }
+    }
+  ]
+}

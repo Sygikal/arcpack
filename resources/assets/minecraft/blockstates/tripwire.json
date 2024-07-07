@@ -1,0 +1,292 @@
+{
+  "variants": {
+    "south=false,powered=false,east=false,attached=false,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_ns",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=false,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_n",
+        "x": 0,
+        "y": 270,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=false,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_4",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=false,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_3",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=true,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=true,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_n",
+        "x": 0,
+        "y": 270,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=true,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_n",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=false,attached=true,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "x": 0,
+        "y": 270,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=false,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_n",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=false,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_ns",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=false,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_2",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=false,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_1",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=true,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_n",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=true,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=true,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=false,powered=false,east=true,attached=true,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "x": 0,
+        "y": 270,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=false,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_n",
+        "x": 0,
+        "y": 180,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=false,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_ne",
+        "x": 0,
+        "y": 180,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=false,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_4",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=false,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_3",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=true,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_n",
+        "x": 0,
+        "y": 180,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=true,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "x": 0,
+        "y": 180,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=true,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_ns",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=false,attached=true,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "x": 0,
+        "y": 180,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=false,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_ne",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=false,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_nse",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=false,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_2",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=false,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:custom/block/stone/pebbles_1",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=true,disarmed=true,north=false,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_ne",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=true,disarmed=true,north=false,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "x": 0,
+        "y": 90,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=true,disarmed=true,north=true,west=false": [
+      {
+        "model": "minecraft:block/tripwire_attached_nse",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ],
+    "south=true,powered=false,east=true,attached=true,disarmed=true,north=true,west=true": [
+      {
+        "model": "minecraft:block/tripwire_attached_nsew",
+        "x": 0,
+        "y": 0,
+        "uvlock": false,
+        "weight": 1
+      }
+    ]
+  }
+}
